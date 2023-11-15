@@ -1,0 +1,12 @@
+# Configuration file for your GitHub Pages site
+
+# Site settings
+title: "Md. Manzurul Islam's Portfolio"
+description: "Computer Science and Engineering Student"
+
+# Theme settings
+theme: jekyll-theme-minimal
+show_downloads: True
+# # Build settings
+# markdown: kramdown
+# exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules", "vendor", "_config.yml"]
