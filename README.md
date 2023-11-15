@@ -1,6 +1,6 @@
 # Md. Manzurul Islam's Portfolio
 
-![Profile Picture](link-to-profile-picture)
+![Profile Picture](https://github.com/AB69D/portfolio/blob/main/assert/me.png)
 
 ## Contact Information
 - **Location:** Mirpur, Dhaka, Bangladesh
