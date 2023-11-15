@@ -39,7 +39,7 @@ Developed a system to utilize energy-efficient light bulbs as dimmable lights co
 
 ## Certifications
 - **Introduction to Machine Learning with Python (BUET at 2022/03/27)**
-- **Server administration including Windows|Linux (SEIP|BASIS)**
+- **Server administration including Windows:Linux (SEIP:BASIS)**
 - **2023 Top 10 Innovator Award from DigitalBangladeshMela**
 - **Develop Schedule App for ICPC Asia Dhaka Regional Contest - 2023**
 
