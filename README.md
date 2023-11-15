@@ -1,6 +1,6 @@
 # Md. Manzurul Islam's Portfolio
 
-![Profile Picture](/assert/me.png)
+![Profile Picture](/assert/rsz_me.png)
 
 ## Contact Information
 - **Location:** Mirpur, Dhaka, Bangladesh
