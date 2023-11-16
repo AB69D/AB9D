@@ -1,7 +1,3 @@
-# Md. Manzurul Islam's Portfolio
-
-![Profile Picture](/assert/img_me.png)
-
 ## Contact Information
 - **Location:** Mirpur, Dhaka, Bangladesh
 - **Phone:** +8801521545813
