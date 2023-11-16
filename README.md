@@ -25,8 +25,7 @@ Developed a system to utilize energy-efficient light bulbs as dimmable lights co
 
 ## Publications
 - **A Stacked Ensemble Machine Learning Approach for the Prediction of Diabetes**
-  - Q2, Impact Factor: 3.0
-  - [Springer journal]
+  - Q2, Impact Factor: 3.0 [Springer journal]
 
 ## Problem Solving
 - **Codeforces:** 30+ solved
