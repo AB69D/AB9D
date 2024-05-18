@@ -1,8 +1,60 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
-  }
-  
-  h1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#main_body {
+    text-align: center;
     color: #333;
-  }
+    position: relative;
+}
+
+#main_body img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.desc {
+    font-weight: 10;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.text-switcher > .wrap {
+    border-right: 0.08em solid #666;
+}
+
+#portfolio {
+    max-width: 800px;
+    margin-top: 50px;
+    text-align: left;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#portfolio h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+#portfolio h3 {
+    margin-top: 20px;
+}
+
+#portfolio ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#portfolio ul li {
+    margin-bottom: 10px;
+}
