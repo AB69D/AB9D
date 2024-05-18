@@ -3,9 +3,17 @@ document.addEventListener('DOMContentLoaded', function() {
     var canvas = document.getElementById('background-animation');
     var ctx = canvas.getContext('2d');
 
-    // Set canvas size to window size
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    // Function to set canvas size to window size
+    function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    }
+
+    // Call resizeCanvas function initially
+    resizeCanvas();
+
+    // Call resizeCanvas function whenever window size changes
+    window.addEventListener('resize', resizeCanvas);
 
     // Generate random particles for background animation
     var particles = [];
