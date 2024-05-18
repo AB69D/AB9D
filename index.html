@@ -10,6 +10,68 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" crossorigin="anonymous">
     <script type="text/javascript" src="js/index.js"></script>
     <script type="text/javascript" src="js/main_animation.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        #main_body {
+            text-align: center;
+            color: #333;
+            position: relative;
+        }
+
+        #main_body img {
+            width: 150px;
+            border-radius: 50%;
+        }
+
+        .desc {
+            font-weight: 10;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+
+        .text-switcher > .wrap {
+            border-right: 0.08em solid #666;
+        }
+
+        #portfolio {
+            max-width: 800px;
+            margin-top: 50px;
+            text-align: left;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #portfolio h2 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+        }
+
+        #portfolio h3 {
+            margin-top: 20px;
+        }
+
+        #portfolio ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #portfolio ul li {
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 
 <body>
@@ -17,12 +79,12 @@
         <div id="main_body" class="body_class">
             <img src="/assert/img_me.png" alt="Profile pic">
             <h1 style="font-family: 'Roboto', sans-serif; font-style: initial;">Md. Manzurul Islam</h1>
-            <h2 class="desc" style="font-weight: 10; font-size: 20px;">
+            <h2 class="desc">
                 I'm a
-                <span class="text-switcher" style="font-style: initial; font-size: 22px;" data-hold-time="1000" data-switch-content='[ "Android App Developer.", "Odoo developer","Data-science ML-AI NLP Enthusiast."]'></span>
+                <span class="text-switcher" data-hold-time="1000" data-switch-content='[ "Android App Developer.", "Odoo developer","Data-science ML-AI NLP Enthusiast."]'></span>
             </h2>
             <hr style="width: 50%; background-color: #1D2951; border-color: #1D2951;">
-            <a href="https://github.com/ab69d" style="color: white;"><i class="fab fa-github" style="font-size: 2em;"></i></a> &nbsp
+            <a href="https://github.com/ab69d" style="color: #5cbdaa;"><i class="fab fa-github" style="font-size: 2em;"></i></a> &nbsp
         </div>
     </div>
 
