@@ -6,7 +6,7 @@ description: "Work at Bista Solution Inc"
 logo : /assert/img_me.png
 
 # Theme settings
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 show_downloads: True
 # # Build settings
 # markdown: kramdown
