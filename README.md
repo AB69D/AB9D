@@ -11,6 +11,10 @@
 
 ## Work Experience
 ### [Bista Solution Inc](https://www.bistasolutions.com/) - Trainee Python Developer [2023/10 - Present]
+#### SonnerPipe 360(Flutter/Floor)[available at Playstore]: 
+Fetch data from a Warehouse Management System (WMS) API, authenticate the API, render the data to a list view in Flutter, and handle offline inventory
+
+
 
 ### [Smart Technology Ltd](https://smartbd.com/) - Trainee Software Engineer [2023/06 - 09]
 #### Temporary Product Allocation Module (ERP/Odoo)
@@ -39,8 +43,8 @@ Developed a system to utilize energy-efficient light bulbs as dimmable lights co
 - **Develop Schedule App for ICPC Asia Dhaka Regional Contest - 2023**
 
 ## Key Skills & Abilities
-- **Language:** Python, C++
-- **Framework:** Odoo, Django, Arduino
+- **Language:** Python, C++,dart
+- **Framework:** Odoo, Django, Arduino, Flutter
 - **Database:** MySql, SQLite, PostgreSQL
 - **Operating System:** Linux
 - **Version Controlling System(VCS):** Github
